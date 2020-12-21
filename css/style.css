@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: wrap column;
+  position: relative;
+}
+
+.section {
+    width: 100%;
+}
+
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+
+}
+
+img, span {
+    display: block;
+}

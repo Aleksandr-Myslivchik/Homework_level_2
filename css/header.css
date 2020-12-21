@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+    margin-bottom: 150px;
+    position: relative;
+    padding-top: 38px;
+
+}
+
+
+.header:after {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 118px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.top-nav {
+    margin: 0 -29.5px;
+}
+
+.top-nav-list {
+    display: flex;
+}
+
+.top-nav-list > * {
+    margin: 0 29.5px;
+    opacity: 0.75;
+color: #ffffff;
+font-family: 'Raleway';
+font-size: 13px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-transform: uppercase;
+}

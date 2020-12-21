@@ -1,0 +1,54 @@
+.feature__section {
+    background-color: #ffffff;
+    padding: 121px 0 124px 0;
+}
+
+
+
+.column-wrapper {
+    display: flex;
+    margin: 0 -47px;
+    align-items: flex-end;
+}
+.column-wrapper_margin {
+    margin-bottom: 74px;
+
+}
+
+
+.feature__column {
+    margin: 0 47px;
+
+}
+.feature__item {
+
+}
+.feature__icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 34px;
+    
+}
+.feature__title {
+    color: #2d3033;
+font-family: Raleway;
+font-size: 14px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 25px;
+}
+.feature__description {
+    color: #6c7279;
+font-family: Raleway;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 21px;
+text-align: center;
+}
