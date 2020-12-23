@@ -1,0 +1,32 @@
+.copyright-section {
+    background-color: #313454;
+    padding: 29px 0;
+}
+.section {
+}
+.copyright-container {
+}
+.container {
+}
+.copyright__company {
+    color: #808080;
+font-family: Raleway;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 22.5px;
+text-align: center;
+}
+.copyright__author {
+    color: #ffffff;
+font-family: Raleway;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+display: inline-block;
+}
+.heart {
+    color: red;
+    display: inline-block;
+}

@@ -9,9 +9,12 @@
 .team__wrapper {
     display: flex;
     margin: 0 -15px;
+
 }
 .team__column {
+   
     margin: 0 15px;
+    flex: 1 1 270px;
     
 }
 .team__item {
@@ -19,12 +22,15 @@
     flex-direction: column;
 
 }
-.team__logo {
-    margin-bottom: 30px;
+.team__logo * {
+    /* margin-bottom: 30px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
+    width: 100%;
+    height: 100%;
 }
+
 .team__name {
     color: #2d3033;
 font-family: Raleway;

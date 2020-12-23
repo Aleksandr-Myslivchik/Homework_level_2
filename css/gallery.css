@@ -1,0 +1,28 @@
+.gallery__section {
+}
+
+.gallery__container {
+    padding: 0;
+    max-width: 100%;
+}
+.gallery__wrapper {
+}
+.gallery__row {
+    display: flex;
+}
+
+
+
+.gallery__item > * {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.project__item {
+    flex: 1 1 0;
+}
+
+.gallery__item {
+    flex: 1 1 auto;
+}
