@@ -7,16 +7,22 @@
 }
 
 .team__wrapper {
-    display: flex;
-    margin: 0 -15px;
+        display: flex;
+        margin: 0 -15px;
+        align-items: flex-end;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
 
 }
 .team__column {
    
-    margin: 0 15px;
-    flex: 1 1 270px;
+        margin: 0 15px;
+        flex: 0 1 260px;
+        margin-bottom: 45px;
     
 }
+
 .team__item {
     display: flex;
     flex-direction: column;

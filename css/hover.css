@@ -1,0 +1,24 @@
+.social-icon__element{
+    cursor: pointer;
+}
+.social-icon__element:hover {
+    background-color: #0089ff1f;
+    transition: all 0.3s ease;
+
+}
+button {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+button:hover {
+    background-color: #e8454596;
+}
+.top-nav-list li {
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+}
+.top-nav-list li:hover {
+    color: #ffffff88;
+
+}

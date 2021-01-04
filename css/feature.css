@@ -7,17 +7,23 @@
 
 .column-wrapper {
     display: flex;
-    margin: 0 -47px;
+    margin: 0 -15px;
     align-items: flex-end;
-}
-.column-wrapper_margin {
-    margin-bottom: 74px;
+    flex-wrap: wrap;
+    justify-content: center;
 
 }
+/* .column-wrapper_margin {
+    margin-bottom: 74px;
+
+} */
 
 
 .feature__column {
     margin: 0 47px;
+    flex: 1 1 295px;
+    margin-bottom: 45px;
+
 
 }
 .feature__item {
